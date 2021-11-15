@@ -1,0 +1,42 @@
+<html>
+<head>
+<meta charset="utf-8"></meta>
+<title>HTML Form</title>
+<style type="text/css">
+body {background-color:gray;}
+</style>
+</head>
+<body>
+<h1>HTML Form</h1>
+<form action="mailto:mail@anymail.com" method="POST">
+<table border="0" bgcolor="white">
+	<tr>
+		<td>First Name : </td>
+		<td><input style="background-color:gray;" type="text" maxlength="40" name="first_name" required></td>
+	</tr>
+	<tr>	
+		<td>Last Name : </td>
+		<td><input style="background-color:gray;" type="text" maxlength="40" name="last_name" disabled></td>
+	</tr>
+	<tr>
+		<td>Date of Birth : </td>
+		<td><select style="background-color:gray;" name="day"><option>1</option><option>
+		2</option><option>3</option><option>4</option></select><select style="background-color:gray;" name="month">
+		<option>January</option><<option>February</option>
+		<option>March</option></select><select style="background-color:gray;" name="year">
+		<option>2021</option><option>2022</option><option>2023</option></select>
+		</td>
+	</tr>
+		<td>Email :</td>
+		<td><input style="background-color:gray;" type="text" required name="mail"></td>
+	</tr>
+		<td>Mobile Number : </td>
+		<td><input style="background-color:gray;" type="text" readonly name="mobile_number"></td>
+	</tr>
+	<tr>
+		<td><input style="background-color:gray;" type="submit" name=submit" value="OK">&nbsp;<input style="background-color:gray;" type="reset" name="reset" value="Reset"></td>
+	</tr>
+</table>
+</form>
+</body>
+</html>
