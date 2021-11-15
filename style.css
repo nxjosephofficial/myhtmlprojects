@@ -1,0 +1,8 @@
+h1 {
+color:black;
+font:italic 11px Arial, serif;
+text-decoration:underline;
+background: yellow url(titlebg.gif) repeat-x;
+border:1 px solid red;
+margin-bottom: 0;
+padding: 5px;}
