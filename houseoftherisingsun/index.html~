@@ -1,0 +1,61 @@
+<html>
+<head>
+<a href="http://bluefish.openoffice.nl/"><h1>Made with Bluefish HTML editor on Linux.</h1></a>
+<title>They call the Rising Sun</title>
+<style type="text/css">
+body {background-color:blueviolet;}
+h1 {font-family:sans-serif;color:greenyellow;text-align:center;}
+pre {font-style:oblique;font-weight:bold;font-family: Arial;}
+</style>
+</head>
+<body>
+<audio controls>
+<source src="houseoftherisingsun.mp3" type="audio/mp3">
+</source>
+</audio>
+<pre>
+There is a house in Charming Town
+They call the Rising Sun
+It's been the ruin of many a poor girl
+And me, Oh God, I'm one
+
+If I listened to my mama
+Lord I'd be home today
+But I was young and foolish
+Handsome rider led me astray
+
+Go tell my baby sister
+Never do what I've done
+To shun the house in Charming Town
+They call the Rising Sun
+
+My Mother, she's a tailor
+She sewed my new blue jeans
+My sweetheart he's a rambler
+Lord he rides an old machine
+
+Now the only thing a rambler needs
+Is a suitcase and a gun
+The only time he's satisfied
+Is when he's on the run
+
+He fills his chamber up with lead
+And takes his pain to town
+The only pleasure he gets out of life
+Is bringing another man down
+
+He's got one hand on the throttle
+The other on the brakes
+He's riding back to Redwood
+On his father's stake
+
+And me I wait in Charming Town
+To gain my love as one
+I'm staying here to end my life
+Down in the Rising Sun
+
+I'm staying here to end my life
+Down in the Rising Sun
+</pre>
+</body>
+</html>
