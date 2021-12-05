@@ -1,0 +1,35 @@
+body {
+  background-color: #131313;
+}
+div.content {
+  width: 270px;
+  height: 250px;
+  border: 5px solid black;
+  margin: 20px;
+  float:left;
+  background-color: red;
+}
+
+div#first {
+  background-image: url(images/1.png);
+  background-repeat: no-repeat;
+  background-size: 270px 250px;
+}
+
+div#second  {
+  background-image: url(images/2.png);
+  background-repeat: no-repeat;
+  background-size: 270px 250px;
+}
+
+div#third  {
+  background-image: url(images/3.png);
+  background-repeat: no-repeat;
+  background-size: 270px 250px;
+}
+
+div#fourth  {
+  background-image: url(images/4.png);
+  background-repeat: no-repeat;
+  background-size: 270px 250px;
+}
