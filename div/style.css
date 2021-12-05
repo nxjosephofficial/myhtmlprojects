@@ -1,0 +1,24 @@
+div.content {
+	background-color:#ff0000;
+	height:150px;
+	width:150px;
+	border:5px solid #000000;
+	float:left;
+	margin:20px;
+}
+
+div#first {
+	background-color: red;
+}
+
+div#second {
+	background-color: blue;
+}
+
+div#third {
+	background-color: green;
+}
+
+div#fourth {
+	background-color: purple;
+}
