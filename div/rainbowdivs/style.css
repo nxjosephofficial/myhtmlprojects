@@ -1,0 +1,50 @@
+body {
+  background-color: #131313;
+}
+
+a:link {text-decoration: none;
+       display: block;
+}
+
+div.content {
+  border: none;
+  margin-top: 20px;
+  height: 60px;
+}
+
+div#red {
+  background-color: red;
+}
+
+div#orange {
+  background-color: orange;
+}
+
+div#yellow {
+  background-color: yellow;
+}
+
+div#green {
+  background-color: green;
+}
+
+div#blue {
+  background-color: blue;
+}
+
+div#indigo {
+  background-color: indigo;
+}
+
+div#violet {
+  background-color: violet;
+}
+
+.link {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
