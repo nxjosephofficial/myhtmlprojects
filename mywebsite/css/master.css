@@ -1,0 +1,33 @@
+body {
+  background-color: #131313;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  image-orientation: from-image;
+}
+
+span {font-weight: bold;font-size: 20px;font-stretch: normal;color: #fff;}
+
+.white
+  {
+    color:#fff;
+  }
+
+a:link {
+  color: #fff;
+  margin:10px;
+  text-decoration: underline;
+  text-decoration-color: aqua;
+}
+
+.flat {font-style: none;font-weight: bold;font-family: sans-serif;font-size: 27px;}
+p#head  {font-style: none;font-weight: bold;font-family: sans-serif;font-size: 27px;}
+
+p#italic {font-style: italic;}
+li {font-style: italic;}
+
+li#flat {font-style: normal;}
