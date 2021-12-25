@@ -1,0 +1,175 @@
+h1.header {
+	font-family:Verdana,sans-serif,Arial,"Times New Roman";
+	font-style:italic;
+	word-spacing:30px;
+	letter-spacing:15px;
+	font-weight:lighter;
+	text-decoration:none;
+	color:#0F0;
+}
+
+ol,ul,li {color:#FFF;font-weight:bold;font-size:25px;font-family:sans-serif,"Times New Roman";}
+
+body {text-align:center;}
+
+.div_1 {
+	margin:20px 20px 20px 20px;
+	padding:10px 10px 10px 10px;
+	float:center;
+	clear:both;
+	width:cover;
+	height:cover;
+	border-style:groove;
+	border-color:red green blue yellow;
+	border-width:20px;
+	background-color:#131313;
+}
+
+.div_lemonade {
+	margin:10px 10px 10px 40px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:yellow;
+	background-image:url('lemonade.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_coffee {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('coffee.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_salgam {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('salgam.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_french_fries {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('french_fries.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_hamburger {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('hamburger.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_pizza {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('pizza.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_cola {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('cola.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_rte {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('rte.png');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_oatmeal {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('oatmeal.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_pasta {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('pasta.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+.div_lahmacun {
+	margin:10px;
+	padding:20;
+	float:left;
+	height:50px;
+	width:50px;
+	//background-color:#0E0905;
+	background-image:url('lahmacun.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border:3px dotted;
+}
+
+
+a:link {color:black;}
+a:hover {color:purple;}
+a:active {color:blue;}
+a:visited {color:yellow;}
