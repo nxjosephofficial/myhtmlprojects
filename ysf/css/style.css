@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	color: #00F;
+	text-decoration: none;
+	background-color: #3C9;
+}

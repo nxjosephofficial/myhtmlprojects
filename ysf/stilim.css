@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.baslik {
+	color:red;
+	text-align:left;
+	font-size:20pt;
+	margin:20px;
+	}
+body {
+	background-color:#131313;
+	}
+p {
+	font-family:"Courier New", Courier, monospace;
+	font-size:15pt;
+	color:white;
+	font-weight:bolder;
+	font-style:italic;
+	text-align:left;
+	margin:20px;
+	}
+#farklifont {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+#farklifont2 {font-family:"MS Serif", "New York", serif;}
+
+pre {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:15pt;
+	color:white;
+	font-weight:bolder;
+	font-style:italic;
+	}
+	
+div {
+	float:left;
+	margin:25px;
+	width:400px;
+	height:300px;
+	border:2px solid red
+	}
