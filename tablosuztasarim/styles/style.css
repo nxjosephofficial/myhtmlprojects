@@ -1,0 +1,55 @@
+@charset "utf-8";
+#ana {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 32px;
+	color: #000;
+}
+#ust {
+	line-height: 100px;
+	background-color: #CCC;
+	text-align: center;
+	vertical-align: middle;
+	height: 100px;
+	margin-bottom: 5px;
+}
+body {
+	background-image: url(../images/desen3.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+#sol {
+	line-height: 350px;
+	background-color: #ff6;
+	float: left;
+	height: 350px;
+	width: 125px;
+}
+#orta {
+	line-height: 350px;
+	background-color: #58bdff;
+	text-align: center;
+	float: left;
+	height: 350px;
+	width: 350px;
+}
+#sag {
+	line-height: 350px;
+	background-color: #ff6;
+	text-align: right;
+	float: right;
+	height: 350px;
+	width: 125px;
+}
+#clear {
+	clear: both;
+}
+#alt {
+	line-height: 100px;
+	background-color: #aaa;
+	text-align: center;
+	height: 100px;
+	margin-top: 5px;
+}
