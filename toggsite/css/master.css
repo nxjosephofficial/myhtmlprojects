@@ -1,0 +1,96 @@
+@charset "utf-8";
+#ana {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#banner {
+	height: 200px;
+	width: 800px;
+}
+#menu {
+}
+#ana #menu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#icerik {
+}
+#iletisim {
+	width: 400px;
+	float: left;
+}
+#ana #iletisim #form1 h1 {
+	text-align: center;
+	color: red;
+}
+#harita {
+	float: right;
+}
+#ana #harita h1 {
+	text-align: center;
+	color: red;
+}
+
+
+
+
+#alt {
+	text-align: center;
+	color: #FFF;
+	background-color: #131313;
+	line-height: 30px;
+	height: 30px;
+	clear: both;
+}
+#ana #alt strong a {
+	color: #F00;
+	text-decoration: none;
+}
+#ana #alt strong a:hover {
+	color: #FF0;
+	text-decoration: none;
+}
+#ana #icerik h1 {
+	text-align: center;
+	color: red;
+}
+#ana #menu ul li {
+	float: left;
+}
+#ana #menu ul li a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: block;
+	height: 30px;
+	width: 150px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+#ana #menu ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #131313;
+	text-align: center;
+	display: block;
+	height: 30px;
+	width: 150px;
+	margin-right: 5px;
+	margin-left: 5px;
+	border-radius:100px;
+}
+.active {
+	background-color: #F00 !important;
+
+}
