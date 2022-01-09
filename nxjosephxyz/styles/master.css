@@ -39,7 +39,7 @@ span {
 
 header {
   width: 100%;
-  height: 350px;
+  height: 250px;
   box-shadow: 0 2px 8px 2px rgba(20, 23, 28, .15);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -53,7 +53,7 @@ header {
 
 #bannerimage {
   width: 100%;
-  height: 350px;
+  height: 250px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   opacity: 0.8;
