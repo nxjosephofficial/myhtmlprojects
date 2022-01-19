@@ -1,0 +1,74 @@
+/* master.css */
+body {
+    background-image:url('../images/pattern.png');
+    background-repeat:repeat;
+}
+#ana {
+    /*background-color:aliceblue;*/
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+}
+#ust {
+    width:800px;
+    height:200px;
+    background-image:url('../images/ust.jpg');
+    background-repeat:no-repeat;
+    margin-bottom:10px;
+    border-radius:10px;
+}
+#menu {
+    float:left;
+    width:150px;
+}
+#menu ul {
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+}
+#menu ul li {}
+#menu ul li a:link {
+    color:white;
+    font-weight:bold;
+    display:block;
+    background-color:#131313;
+    text-decoration:none;
+    font-size:18px;
+    font-family:monospace,Arial,sans-serif;
+    width:140px;
+    margin-left:10px;
+    margin-bottom:5px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    border-radius:5px;
+}
+#menu ul li a:visited {
+    color:white;
+}
+#menu ul li a:hover {
+    /*opacity:0.7;*/
+    background-color:#050505;
+}
+#icerik {
+    float:right;
+    width:640px;
+    height:170px;
+    margin-left:0px;
+    /*background-color:gray;*/
+    border-radius:5px;
+}
+#alt {
+    clear:both;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    color:#fff;
+    background-color:#151515;
+    font-family:sans-serif,Calibri,Arial;
+    border-radius:10px;
+}
+.aktifsayfa {
+    background-color:#900 !important;
+}
