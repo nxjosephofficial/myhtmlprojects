@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+      font-family: 'Roboto', sans-serif;
+      background-image: url('./food.png');
+      background-repeat: repeat;
+}
+.main {
+  width: 100%;
+  height: 100%;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.navbar {
+  z-index: 1;
+  top: 0;
+  position: sticky;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  background-color: #131313;
+}
+.navbar ul {
+  margin:0px;
+  padding:0px;
+  list-style-type: none;
+}
+.navbar ul li {
+  float: left;
+}
+.navbar ul li a:link {
+  color: black;
+  text-decoration: none;
+  display: block;
+  margin-right: 5px;
+  letter-spacing: 1px;
+  width: 150px;
+  height: 35px;
+  background-color: white;
+  text-align: center;
+  line-height: 35px;
+  margin-top: 10px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+.navbar ul li a:hover {
+  opacity: 0.5;
+  transition: 0.2s;
+  color: red;
+}
+.navbar ul li a:visited {
+  text-decoration: none;
+  color: black;
+}
+.navbar-img {
+  width: 50px;
+  height: 40px;
+  float: left;
+  margin-left: 15px;
+  margin-top: 3px;
+  margin-right: 60px;
+}
+.icerik {
+  width: 50%;
+  height: auto;
+  margin-top:10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f1f1f1;
+  padding:20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.baslik {
+  text-align: center;
+  color: red;
+  margin-bottom: 10px;
+}
+/* .harita {
+  margin-left: auto;
+  margin-right: auto;
+} */
+#submit {
+  font-weight: bold;
+  text-align: center;
+}
+#reset {
+  font-weight: bold;
+  text-align: center;
+}
+.aktifsayfa {
+  background-color: lightblue !important;
+}
+center {
+  opacity: 0;
+}
+.urunresim {
+  width: 200px;
+  height: 200px;
+  /* background-color: black; */
+  margin:5px;
+  border: 2px solid black;
+}
+.urunresim:hover {
+  opacity: 0.7;
+  transition: 0.2s;
+}
