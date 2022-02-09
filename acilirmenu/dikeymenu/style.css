@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: aliceblue;
+}
+#menu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+#menu ul li {
+    width: 160px;
+    height: 30px;
+    background-color: #131313;
+    position: relative;
+}
+#menu ul li a {
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    display: block;
+}
+#menu ul li a:hover {
+    color: #fff;
+}
+#menu ul li ul {
+    display: none;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+}
+#menu ul li:hover ul {
+    display: block;
+}
+.acilirmenu {
+    background-image: url('./ok.png');
+    background-repeat: no-repeat;
+    background-position: 130px center;
+}
+.border-right {
+    border-right: 2px solid whitesmoke;
+}
